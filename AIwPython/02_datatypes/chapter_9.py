@@ -16,3 +16,5 @@ print(f"Only in essential spices: {only_in_essential}")
 
 # membership test
 print(f"Is 'cloves' in optional spices? {'cloves' in optional_spices}")
+
+# frozenset() - immutable 
