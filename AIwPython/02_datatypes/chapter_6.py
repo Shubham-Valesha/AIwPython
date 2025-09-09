@@ -1,3 +1,5 @@
+# Slicing, Encoding-Decoding!
+
 chai_type = "Ginger chai"
 customer_name = "Priya"
 
@@ -13,3 +15,4 @@ encoded_label = label_text.encode("utf-8")
 print(f"Non Encoded label: {label_text}")
 print(f"Encoded label: {encoded_label}")
 decoded_label = encoded_label.decode("utf-8")
+print(f"Decoded label: {decoded_label}")
